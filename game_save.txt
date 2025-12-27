@@ -1,0 +1,14 @@
+year=2
+population=87
+grain=467.000000
+land=1050
+starvedLastYear=25
+immigrantsLastYear=12
+plagueLastYear=0
+yieldPerAcreLastYear=6
+harvestTotalLastYear=300
+ratsAteLastYear=8
+landPriceThisYear=22
+awaitingPlayerDecisions=0
+yearsCompleted=1
+starvationPercentSum=25.000000
